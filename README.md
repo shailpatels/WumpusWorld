@@ -8,4 +8,4 @@ Information about the alogirthim: [here](http://shailpatels.me/documents/wumpusW
 Simulation built in Unity for testing: [here](http://shailpatels.me/wumpusWorld/wumpus.html)
 
 SaggyBoi: (he was programmed better than he was built, hence the name)
-<p align="center"><img src = "http://shailpatels.me/images/legorobot.jpg" height="350px" /></p>
+<p align="center"><img src = "https://shailpatels.me/images/WW_preview.jpg" height="350px" /></p>
